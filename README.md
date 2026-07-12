@@ -1,13 +1,16 @@
 # DeepakSingh
 🙋About myself:
 
- 🎓 Data Analytics Student 
+ 🎓 Enthusiasing Data Analyst
  
  📊 Passionate about data-driven decision making 
- 🌱 Currently learning Python, SQL, Excel & Power BI   
+ 
+ 🌱 Currently learning Python, SQL, Excel & Power BI 
+ 
  Connect with Me:
  
  💼 LinkedIn: linkedin.com/in/deepak-kumar-singh-7785262ba 
+ 
  📧Email: babudeepak735@gmail.com
 
 ## 💻 Tech Stack
